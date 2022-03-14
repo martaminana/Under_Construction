@@ -1,5 +1,5 @@
 # Under_Construction/ Juego Olímpicos Japon 2021
-###  Accidentes de tráfico de la ciudad de Madrid (2020)
+
 
 * Datos recogidos de la página web Kaggle 
 * Hipótesis de partida (Que país obtuvo más medallas, medallas por género y deporte, Ranking de países por medallas)
